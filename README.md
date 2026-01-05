@@ -1,6 +1,6 @@
 # TongjiThesis
 ## 总览
-同济大学课程作业的LaTeX模板。
+同济大学课程作业的LaTeX模板，此模板用于课程的作业
 
 效果预览：请到[这里下载PDF](https://github.com/marquistj13/TongjiThesis/releases/latest)。
 注意：由于我们不经常打tag，因此release界面往往不是最新的，请在本页面下载最新模板。
